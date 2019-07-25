@@ -17,6 +17,8 @@
 - 2x shorts
 - bunney + gloves
 - 3x pulli/heli-hansen
+- towel
+- swimming suit
 
 ## equipment
 - rain pants
